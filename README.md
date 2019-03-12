@@ -1,2 +1,2 @@
 # KoaStart
-从零开始使用Koa
+GET请求数据
