@@ -1,2 +1,2 @@
 # KoaStart
-koa2 定制化路由
+koa2 快速使用koa-router
